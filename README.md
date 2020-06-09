@@ -1,1 +1,1 @@
-# mobile-test-courses
+# mobile-test-course
